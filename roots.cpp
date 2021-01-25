@@ -5,7 +5,7 @@ using namespace std;
 int main() 
 {
 
-    float a,b,c,x1,x2,d,rp,ip;
+    double a,b,c,x1,x2,d,rp,ip;
     cout<<"Enter coefficients a, b and c:";
     cin>>a>>b>>c;
     d=b*b-4*a*c;
