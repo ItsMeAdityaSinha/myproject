@@ -7,21 +7,21 @@ int main()
     cin>>wn;
     switch(wn)
     {
-        case 1: cout<<"Monday";
+        case 1:cout<<"Monday";
         break;
-        case 2: cout<<"Tuesday";
+        case 2:cout<<"Tuesday";
         break;
-        case 3: cout<<"Wednesday";
+        case 3:cout<<"Wednesday";
         break;
-        case 4: cout<<"Thursday";
+        case 4:cout<<"Thursday";
         break;
-        case 5: cout<<"Friday";
+        case 5:cout<<"Friday";
         break;
-        case 6: cout<<"Saturday";
+        case 6:cout<<"Saturday";
         break;
-        case 7: cout<<"Sunday";
+        case 7:cout<<"Sunday";
         break;
-        default: cout<<"Invalid input! Please enter week no. between 1-7.";
+        default:cout<<"Invalid input. Please enter week no. between 1-7.";
     }
  
     return 0;
